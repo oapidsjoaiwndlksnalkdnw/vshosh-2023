@@ -1,0 +1,14 @@
+.wrapper {
+    margin: 15px;
+}
+
+.cell {
+    width: 100%;
+    border-radius: 20px;
+    padding: 24px;
+    text-align: center;
+    font-size: 40px;
+    font-family: monospace;
+    background-color: #dddddd;
+    border: none;
+}
